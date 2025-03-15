@@ -1,5 +1,5 @@
 [project]
-name = "pyplate"
+name = "pycontainer"
 version = "0.1.0"
 description = "Python project template"
 readme = "README.md"

@@ -1,5 +1,5 @@
 def main():
-    print("Hello from pyplate!")
+    print("Hello from pycontainer!")
 
 
 if __name__ == "__main__":
