@@ -1,0 +1,10 @@
+[project]
+name = "pycontainer"
+version = "0.1.0"
+description = "Python project template"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyright>=1.1.394",
+    "pytest>=8.3.4",
+]
